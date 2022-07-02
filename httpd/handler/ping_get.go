@@ -12,5 +12,4 @@ func PingGet() gin.HandlerFunc {
 			"hello": "Found me",
 		})
 	}
-
 }
